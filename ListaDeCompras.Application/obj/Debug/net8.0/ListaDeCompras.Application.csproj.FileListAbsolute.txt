@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\bin\Debug\net8.0\ListaDeCompras.Application.deps.json
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\bin\Debug\net8.0\ListaDeCompras.Application.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\bin\Debug\net8.0\ListaDeCompras.Application.pdb
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\bin\Debug\net8.0\ListaDeCompras.Domain.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\bin\Debug\net8.0\ListaDeCompras.Domain.pdb
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeC.205D8658.Up2Date
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\refint\ListaDeCompras.Application.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ListaDeCompras.Application.pdb
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Application\obj\Debug\net8.0\ref\ListaDeCompras.Application.dll

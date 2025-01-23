@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\bin\Debug\net8.0\ListaDeCompras.Domain.deps.json
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\bin\Debug\net8.0\ListaDeCompras.Domain.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\bin\Debug\net8.0\ListaDeCompras.Domain.pdb
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\refint\ListaDeCompras.Domain.dll
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ListaDeCompras.Domain.pdb
+C:\Users\Admin\Documents\Pessoal\Portfolio\ListaDeCompras\ListaDeCompras.Domain\obj\Debug\net8.0\ref\ListaDeCompras.Domain.dll

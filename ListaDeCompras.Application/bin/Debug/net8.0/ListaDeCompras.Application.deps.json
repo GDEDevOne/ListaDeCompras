@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ListaDeCompras.Application/1.0.0": {
+        "dependencies": {
+          "ListaDeCompras.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ListaDeCompras.Application.dll": {}
+        }
+      },
+      "ListaDeCompras.Domain/1.0.0": {
+        "runtime": {
+          "ListaDeCompras.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaDeCompras.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListaDeCompras.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
